@@ -1,73 +1,72 @@
-# Welcome to your Lovable project
+# 🌐 Personal Portfolio Website
 
-## Project info
+Welcome to my personal portfolio website!  
+This project represents my learning journey, technical growth, and hands-on experience in web development.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🚀 About the Project
 
-There are several ways of editing your application.
+This portfolio website was built using **Lovable AI**, an AI-powered development platform that helps convert ideas into functional, production-ready web applications. By describing the layout, sections, and features, I was able to iteratively build a complete portfolio website efficiently.
 
-**Use Lovable**
+Along with AI assistance, the core learning, guidance, and conceptual clarity came from **Tap Academy**, where I am currently doing my internship.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🏫 Role of Tap Academy in My Learning
 
-**Use your preferred IDE**
+I am currently an intern at **Tap Academy**, and this project is a result of their:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Well-structured training programs  
+- Strong fundamentals-focused teaching approach  
+- Continuous mentor support and guidance  
+- Practical, hands-on learning methodology  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The trainers at Tap Academy helped me understand:
+- How a real-world web project is planned
+- How to structure a portfolio professionally
+- How different technologies work together in a project
+- Best practices for clean code and project organization
 
-Follow these steps:
+Their learning techniques made complex concepts easy to understand and apply in real projects like this portfolio.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🤖 How Lovable AI Helped
 
-# Step 3: Install the necessary dependencies.
-npm i
+Lovable AI played a major role in:
+- Generating responsive UI components
+- Creating layouts and sections using natural language prompts
+- Speeding up development through iterative improvements
+- Helping deploy and manage the project with GitHub integration
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+By combining AI assistance with strong fundamentals taught at Tap Academy, I was able to complete this project confidently.
+
+---
+
+## 💡 What I Learned
+
+Through this project, I learned:
+- How to design and structure a professional portfolio
+- Prompt-based development using AI tools
+- Frontend technologies like modern JavaScript frameworks and styling concepts
+- GitHub workflows (clone, commit, push, deploy)
+- How to convert learning into a real-world project
+
+Most importantly, I learned **how to think like a developer**, thanks to Tap Academy’s guidance.
+
+---
+
+## 👀 How to Access My Portfolio
+
+### 🔗 Live Website
+You can view my portfolio here:  
+
+
+### 💻 Run Locally
+```bash
+git clone https://github.com/RajKumar361/Portfolio.git
+cd Portfolio
+npm install
 npm run dev
-```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
